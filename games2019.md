@@ -67,7 +67,6 @@ Inspired by my work on procedural generation...
 
 ### Global/Switzerland
 * IBMQ Awards, $1500 prize for a quantum game, Sept 23 - Dec 13
-* Ludum Dare
 * Quantum Futures Hackathon, CERN, October 18-20
 
 ### Other places
