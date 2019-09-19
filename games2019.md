@@ -73,9 +73,9 @@ Inspired by my work on procedural generation...
 
 Global/Switzerland
 * IBMQ Awards, 1500 prize for a quantum game, Sept 23 - Dec 13
-* Qiskit Hackathon @ Singapore, October 11-12
+* Quantum Futures Hackathon, CERN, October 18-20
 
 Other places
-* Quantum Futures Hackathon, CERN, October 18-20
+* Qiskit Hackathon @ Singapore, October 11-12
 * Qiskit Camp Asia, Tokyo, November 18-21
 * Qiskit Camp Africa, December 11-14
