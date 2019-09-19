@@ -61,7 +61,7 @@ Inspired by my work on procedural generation...
 
 ... They made a rogue-like.
 
-<img src="images/rouge.png" width="750"/>
+<img src="images/rogue.png" width="750"/>
 
 ### PewPew Cube
 
