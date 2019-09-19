@@ -79,4 +79,3 @@ Other places
 * Quantum Futures Hackathon, CERN, October 18-20
 * Qiskit Camp Asia, Tokyo, November 18-21
 * Qiskit Camp Africa, December 11-14
-* Game jams in Finland
