@@ -43,11 +43,15 @@ Info on all projects at github.com/qiskit-community/qiskit-camp-europe-19
 
 ### Quantum Hold 'em
 
-*No picture :(*
+*Poker*, but quantum!
 
 ### Dr Qubit
 
-*No picture :(*
+*Dr Mario*, but quantum!
+
+### Frozen Q
+
+*Frozen Bubble*, but quantum!
 
 ### Quantum Rogues
 
@@ -56,9 +60,6 @@ Inspired by my work on procedural generation...
 <img src="images/terrain.png" width="750"/>
 
 ... They made a rogue-like.
-
-*No picture :(*
-
 
 ### PewPew Cube
 
