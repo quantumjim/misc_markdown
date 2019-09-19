@@ -29,14 +29,6 @@ Info on all projects at www.medium.com/qiskit in article 'Recap of Qiskit Camp 2
 
 <img src="images/flappy.png" width="750"/>
 
-## Qiskit Hackathon - Madrid
-
-Info on all projects at www.medium.com/qiskit in article 'Recap: Madrid Hackathon'.
-
-### BB84 game
-
-<img src="images/bb84.png" width="750"/>
-
 ## Qiskit Camp - Piz Gloria
 
 Info on all projects at github.com/qiskit-community/qiskit-camp-europe-19
