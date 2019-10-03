@@ -31,7 +31,7 @@ Info on all projects at www.medium.com/qiskit in article 'Recap of Qiskit Camp 2
 
 ## Qiskit Camp - Piz Gloria
 
-Info on all projects at github.com/qiskit-community/qiskit-camp-europe-19
+Info on all projects at www.medium.com/qiskit in article 'Recap: 2019 Qiskit Camp Europe'.
 
 ### Quantum Hold 'em
 
@@ -60,14 +60,15 @@ Inspired by my work on procedural generation...
 <img src="images/pewpewcube.png" width="750"/>
 
 ### Q-Snake
-https://github.com/geduardo/Hackathon-Quantum-Snake
+
 <img src="images/qsnake.png" width="750"/>
 
 ## What you could do
 
-* IBMQ Awards, $1500 prize for a quantum game, Sept 23 - Dec 13
-  - https://ibmqawards.com/quantum-game/
 * Try out quantum for Ludum Dare
   - https://ibm.biz/microqiskit
   - https://ibm.biz/hello-qiskit
+  - https://community.qiskit.org/textbook
+* IBMQ Awards, $1500 prize for a quantum game, Sept 23 - Dec 13
+  - https://ibmqawards.com/quantum-game/
 * Quantum Futures Hackathon, CERN, October 18-20
