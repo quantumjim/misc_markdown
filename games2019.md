@@ -60,16 +60,14 @@ Inspired by my work on procedural generation...
 <img src="images/pewpewcube.png" width="750"/>
 
 ### Q-Snake
-
+https://github.com/geduardo/Hackathon-Quantum-Snake
 <img src="images/qsnake.png" width="750"/>
 
-## Still to go
+## What you could do
 
-### Global/Switzerland
 * IBMQ Awards, $1500 prize for a quantum game, Sept 23 - Dec 13
+  - https://ibmqawards.com/quantum-game/
+* Try out quantum for Ludum Dare
+  - https://ibm.biz/microqiskit
+  - https://ibm.biz/hello-qiskit
 * Quantum Futures Hackathon, CERN, October 18-20
-
-### Other places
-* Qiskit Hackathon @ Singapore, October 11-12
-* Qiskit Camp Asia, Tokyo, November 18-21
-* Qiskit Camp Africa, December 11-14
